@@ -26,7 +26,7 @@
 	</div>
 	<div class="post--label">
 	<?php
-		echo '<span class="label secondary">', the_time( 'Y-m-d' ),'</span>';
+		echo '<span class="label secondary">', get_the_date( 'Y-m-d' ),'</span>';
 		$categories = get_the_category( $post->ID );
 		foreach ( $categories as $category ) :
 	?>
@@ -49,7 +49,7 @@
 	<h2 itemprop="about headline" class="entry-title post--title"><?php the_title(); ?></h2>
 	<div class="post--label">
 	<?php
-		echo '<span class="label secondary">', the_time( 'Y-m-d' ), '</span>';
+		echo '<span class="label secondary">', get_the_date( 'Y-m-d' ), '</span>';
 		$categories = get_the_category();
 		foreach ( $categories as $category ) :
 	?>

@@ -175,7 +175,7 @@
 							<dl>
 								<dt>
 									<span class="label secondary">
-										<?php the_time( 'Y-m-d' ); ?>
+										<?php get_the_date( 'Y-m-d' ); ?>
 									</span>
 									<?php the_category( '　' ); ?>
 								</dt>

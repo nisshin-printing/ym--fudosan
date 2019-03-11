@@ -1,5 +1,5 @@
 <section class="contents--section">
-	<h2>広島市・呉市・東広島市・福山市・岩国市でご相談できます</h2>
+	<h2>広島・呉・東広島・福山・岩国・東京虎ノ門でご相談できます</h2>
 	<div class="row align-middle">
 		<div class="column small-2 large-3"><img src="https://www.law-yamashita.com/wp-content/uploads/2015/06/shin-tanaka.png" alt="広島本部長・副代表・弁護士の田中伸" class="thumbnail"></div>
 		<div class="column small-10 large-9">
@@ -44,4 +44,13 @@
 			<p class="button-group"><a href="https://iwakuni.law-yamashita.com" class="button" target="_blank">岩国支部の特設サイト</a><a href="https://www.facebook.com/lawyerhirotamayumi" class="button bg-facebook" target="_blank">岩国支部のFacebook</a></p>
 		</div>
 	</div>
+
+<div class="row align-middle">
+	<div class="column small-2 large-3"><img src="https://www.law-yamashita.com/wp-content/uploads/2016/12/oka-atsushi.jpg" alt="東京支部長・弁護士の岡篤志" class="thumbnail"></div>
+	<div class="column small-10 large-9">
+		<h3>東京虎ノ門オフィス</h3>
+		<p>東京支部長：　<a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4090" data-toggle="js--ajax-modal">岡篤志</a></p>
+		<p class="button-group"><a href="https://tokyo.law-yamashita.com" class="button" target="_blank">東京虎ノ門オフィスの特設サイト</a></p>
+	</div>
+</div>
 </section>
