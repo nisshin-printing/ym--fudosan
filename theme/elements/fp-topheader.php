@@ -61,16 +61,11 @@
 					<div class="copy--desc">
 					<p>相談件数20,000件以上。
 						<small>※</small>
-<<<<<<< HEAD
 						<br>選ぶなら広島最大級。
 						<br>個人のお客様なら
 						<strong style="background:yellow;color:red">初回相談無料</strong>
 					</p>
 					<small>※　2018年12月末時点（事務所総数）</small>
-=======
-						<br>選ぶなら広島最大級。</p>
-					<small>※　平成29年12月時点（事務所総数）</small>
->>>>>>> 913e4fd000241feead6114ec6b9bf620f36f2938
 				</div>
 				<p class="topheader--button">
 					<a href="tel:0120783409" title="電話する" class="button hollow expanded">
