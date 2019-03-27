@@ -61,9 +61,7 @@
 					<div class="copy--desc">
 					<p>相談件数20,000件以上。
 						<small>※</small>
-						<br>選ぶなら広島最大級。
-						<br>個人のお客様なら
-						<strong style="background:yellow;color:red">初回相談無料</strong>
+						<br>選ぶなら<strong style="background:yellow;color:red">広島最大級</strong>。
 					</p>
 					<small>※　2018年12月末時点（事務所総数）</small>
 				</div>
