@@ -59,7 +59,7 @@
     "gulp-watch": "4.3.11",
     "headroom.js": "0.9.3",
     "jQuery": "^1.7.4",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "map-stream": "0.0.7",
     "merge-stream": "1.0.1",
     "node-notifier": "5.1.2",
